@@ -5,7 +5,6 @@ import java.util.List;
 
 public class C06_ArraydenListOlusturma {
     public static void main(String[] args) {
-
         // verilen bir array'i listeye cevirin
 
         String arr[]={"A" , "B" , "C"};
